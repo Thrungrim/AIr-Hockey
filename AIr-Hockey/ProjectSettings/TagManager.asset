@@ -12,6 +12,7 @@ TagManager:
   - HammerOpponent
   - Fire
   - Border
+  - Field
   layers:
   - Default
   - TransparentFX
